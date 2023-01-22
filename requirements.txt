@@ -59,3 +59,5 @@ wtforms==3.0.1
     # via
     #   -r requirements.in
     #   flask-wtf
+gunicorn==20.1.0
+    # added manually
