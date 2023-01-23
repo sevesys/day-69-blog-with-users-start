@@ -61,5 +61,5 @@ wtforms==3.0.1
     #   flask-wtf
 gunicorn==20.1.0
     # added manually
-psycopg2-binary=2.9.5
+psycopg2-binary==2.9.5
     # added manually
